@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\alex\documents\visual studio 2017\projects\bintree\bintree\main.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Class_BinTree.cpp
+  Создание кода...
+  BinTree.vcxproj -> c:\users\alex\documents\visual studio 2017\Projects\BinTree\Debug\BinTree.exe
+  BinTree.vcxproj -> c:\users\alex\documents\visual studio 2017\Projects\BinTree\Debug\BinTree.pdb (Partial PDB)
